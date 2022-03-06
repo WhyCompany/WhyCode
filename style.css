@@ -86,8 +86,19 @@ a {
 }
 
 .nav_sp:hover {
-    color: #D8DC23;
+    color: #FCFF67;
     transition: background .3s linear, color .3s linear;
+}
+
+.nav_voiti {
+    margin-left: 20px;
+    color: #FFF;
+
+}
+
+.nav_voiti:hover {
+    color: #6EF83E;
+
 }
 
 .fa-hand-holding-usd {
