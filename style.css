@@ -414,7 +414,7 @@ a {
 }
 
 .slide-1__img {
-    image-rendering: optimizeSpeed;
+    image-rendering: -webkit-optimize-contrast;
     width: 780px;
     height: 488px;
 }
